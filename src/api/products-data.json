@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "iPhone XS Max",
+            "image": "iphone-xs-max.jpg",
+            "price": 7999.00,
+            "description": "Linda tela de Retina"
+        },
+        {
+            "id": 2,
+            "name": "Drone Phantom 4",
+            "image": "drone-phantom-4.png",
+            "price": 7199.00,
+            "description": "Agora o céu é o limite"
+        },
+        {
+            "id": 3,
+            "name": "GoPro Hero 7",
+            "image": "go-pro-hero-7.jpg",
+            "price": 8600.00,
+            "description": "Resistente"
+        },
+        {
+            "id": 4,
+            "name": "Kindle 10a geração",
+            "image": "kindle.jpg",
+            "price": 349.00,
+            "description": "Bateria com excelente autonomia"
+        },
+        {
+            "id": 5,
+            "name": "Playstation 4",
+            "image": "playstation-4.jpg",
+            "price": 2999.00,
+            "description": "O console playstation 4"
+        },
+        {
+            "id": 6,
+            "name": "Xbox One X",
+            "image": "xbox-one.jpg",
+            "price": 2500.00,
+            "description": "Seja o primeiro"
+        }
+    ]
+}
