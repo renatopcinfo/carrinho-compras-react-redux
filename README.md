@@ -1,5 +1,7 @@
 EXECUTE:
+### `npm i`
 
+EXECUTE
 ### `npm start`
 
 ACESSE:<br>
